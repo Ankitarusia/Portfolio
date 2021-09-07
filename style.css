@@ -1,0 +1,25 @@
+div#tsparticles {
+    height: 625px;
+}
+.content{
+    color: white;
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 10%;
+}
+li> a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.project-slider{
+    position: absolute;
+    top: 80px;
+    right: 43px;
+    width: 600px;
+}
